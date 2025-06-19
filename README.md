@@ -7,6 +7,10 @@
 ![image](https://github.com/user-attachments/assets/fda52bbb-33a1-48b0-aa8b-d01e22243efd)
 ![image](https://github.com/user-attachments/assets/3e6bc0b1-1751-4d7b-bbf5-22f780c1ea95)
 
+โปรเจคกลุ่ม 3 คน ฉันมีหน้าที่ ดังนี้
+- พัฒนาโปรแกรมในส่วนข้อมูลที่ฉันแพ้ใครมา
+
+
 หมายเหตุ 
 ไฟล์ .jar เป็นไฟล์ที่สามารถรันได้เลย โดยที่เครื่อง ต้องมีการติดตั้ง Java ไว้
 หรือสามารถนำ Source Code ที่เป็น Folder TournamentTreeProject ไปเปิดใน IDE ต่าง ๆ ได้เลย
